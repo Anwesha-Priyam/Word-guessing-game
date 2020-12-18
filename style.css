@@ -1,0 +1,21 @@
+body
+{
+	background: rgb(65, 84, 255);
+}
+#P1_login_box , #P2_login_box
+{
+	width: 50%;
+	background: rgb(238, 182, 255);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	}
+#P1-name , #P2-name
+{
+	display: inline-block;
+}
+button
+{
+	width: 90;
+	background-color: rgb(185, 221, 245);
+}
